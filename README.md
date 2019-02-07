@@ -1,2 +1,2 @@
 # HackerRank_MySolutions
-Various challenges from https://www.hackerrank.com
+Solving various challenges from https://www.hackerrank.com
